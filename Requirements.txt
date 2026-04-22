@@ -1,0 +1,6 @@
+ollama # host applications
+langchain-ollama # package that create ai agents with olama 
+langgraph # tech behing connecting llm to tools
+langchain
+fastmcp
+langchain-mcp-adapters 
